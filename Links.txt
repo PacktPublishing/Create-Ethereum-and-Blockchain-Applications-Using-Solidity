@@ -1,0 +1,7 @@
+https://blockgeeks.com/guides/solidity/
+
+https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
+
+https://learnxinyminutes.com/docs/solidity/
+
+https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js
